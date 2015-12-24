@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <edu.rasmussen.isthatedible.LocationDialog
+        android:key="dialog_add_location_preference"
+        android:dialogTitle="@string/pref_title_add_location"
+        android:dialogMessage="@string/dialog_new_location_summary"
+        android:positiveButtonText="@string/dialog_save"
+        android:negativeButtonText="dialog_cancel" >
+
+    </edu.rasmussen.isthatedible.LocationDialog>
+
+</PreferenceScreen>

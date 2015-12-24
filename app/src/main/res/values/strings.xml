@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Is That Edible?</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Search for a food</string>
+    <string name="search_title">Search</string>
+    <string name="search_icon_desc">Search box icon</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="option_refrigerated">Refrigerated</string>
+    <string name="option_frozen">Frozen</string>
+    <string name="option_room_temp">Room-temperature</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+    <string name="title_activity_food_details">Food Details</string>
+    <string name="search_results">Items that match your search</string>
+    <string name="title_activity_add_food">Add a New Food</string>
+    <string name="add_food_name">Food name</string>
+    <string name="add_food_expiration">Expires on</string>
+
+    <string name="add_food_advance_notify">Notify in advance of</string>
+    <string name="checkbox_expiration_notify">Notify me when item expires?</string>
+    <string name="checkbox_nearby_location">Notify me when near store with expired item?</string>
+    <string-array name="add_food_notify_times">
+        <item>On time</item>
+        <item>12 hours</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>3 days</item>
+        <item>1 week</item>
+    </string-array>
+    <string-array name="add_food_notify_values">
+        <item>0</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="add_food_types">
+        <item>Lean meat</item>
+        <item>Fatty meat</item>
+        <item>Vegetable</item>
+        <item>Fruit</item>
+        <item>Grain</item>
+        <item>Dairy</item>
+    </string-array>
+
+    <string name="storage_type_title">Method of storage:</string>
+    <string name="label_lasts_for">Lasts for</string>
+    <string name="pref_header_location">Location Services</string>
+    <string name="pref_title_location">Location based notifications</string>
+    <string name="pref_title_add_location">Save a new location</string>
+    <string name="pref_summary_add_location">Saves a location that can trigger a notification when you are nearby and have an expired item.</string>
+    <string name="notification_title">Saved location nearby</string>
+    <string name="dialog_new_location_summary">Your location will be tracked to determine if you are nearby to this location.</string>
+    <string name="dialog_save">Save</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_new_loc_name_hint">Name to identify location by</string>
+    <string name="dialog_new_loc_lat_hint">Latitude</string>
+    <string name="dialog_new_loc_long_hint">Longitude</string>
+    <string name="title_actvity_main">Your Aging Foods</string>
+    <string name="existing_foods_label">In your pantry</string>
+    <string name="pinned_foods_label">Pinned for future reference</string>
+
+</resources>

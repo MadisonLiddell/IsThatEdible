@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference android:key="dialog_add_location_preference_button"
+        android:title="@string/pref_title_add_location"
+        android:summary="@string/pref_summary_add_location"/>
+
+</PreferenceScreen>
